@@ -1,0 +1,29 @@
+{
+  "name": "eth-token-smart-contract",
+  "version": "1.0.0",
+  "description": "The First Ever Crypto Search Engine Built to Last",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bitfinder-S-R-L/ETH-token-smart-contract.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bitfinder-S-R-L/ETH-token-smart-contract/issues"
+  },
+  "homepage": "https://github.com/Bitfinder-S-R-L/ETH-token-smart-contract#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@nomicfoundation/hardhat-verify": "^1.1.1",
+    "hardhat": "^2.17.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.3",
+    "big-integer": "^1.6.51",
+    "hardhat-verify": "^1.0.0"
+  }
+}
